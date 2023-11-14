@@ -1,0 +1,506 @@
+[
+    {
+        "id": 0,
+        "contact_id": "2c5337ee-dcb6-4ad1-8062-a4b172e4f344",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 0,
+        "contact_id": "2c5337ee-dcb6-4ad1-8062-a4b172e4f344",
+        "amount": 100.0,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 0,
+        "contact_id": "2c5337ee-dcb6-4ad1-8062-a4b172e4f344",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 0,
+        "contact_id": "2c5337ee-dcb6-4ad1-8062-a4b172e4f344",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 1,
+        "contact_id": "54087880-9c6c-49da-bbfe-5252aa70658e",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 2,
+        "contact_id": "568ad919-6d89-4963-9e88-c4c22076dd8b",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 100.0,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 3,
+        "contact_id": "b3d6637f-6e06-4de1-8407-9539be44a7a0",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 4,
+        "contact_id": "7faeeb00-1cf3-4cbf-84c8-5f3511e7c960",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 5,
+        "contact_id": "830ab87a-b201-4419-b808-4d8b88c9aa81",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 6,
+        "contact_id": "3c84316b-8006-489d-b324-b7ce64a98aca",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 100.0,
+        "product": "HYFI",
+        "date": "2023-10-01"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 100.0,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "LOVT",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "LOVT",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "GOQ",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 10000.12,
+        "product": "GOQ",
+        "date": "2023-10-02"
+    },
+    {
+        "id": 7,
+        "contact_id": "a7310498-504a-4d85-b59b-f9928e362bf2",
+        "amount": 1500.67,
+        "product": "HYFI",
+        "date": "2023-10-03"
+    }
+]
